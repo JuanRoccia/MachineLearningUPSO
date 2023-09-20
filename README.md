@@ -1,4 +1,4 @@
-# MachineLearningUPSO - Laboratorio de Análisis de Datos de Ventas Mensuales
+# Laboratorio de Machine Learning & Big Data UPSO - Análisis de Datos de Ventas Mensuales
 Trabajos para la materia de Machine Learning &amp; Big Data de la UPSO
 
 ## Descripción
