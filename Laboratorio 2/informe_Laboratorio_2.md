@@ -1,5 +1,7 @@
 # Clasificador de Canciones de Spotify
 
+Link al repositorio: [Laboratorio_2 Juan Manuel Roccia](https://github.com/JuanRoccia/MachineLearningUPSO/blob/main/Laboratorio%202/Laboratorio_Clasificador_Canciones_Spotify.ipynb)
+
 ## Introducción al Proyecto
 
 ### Contexto
