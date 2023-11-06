@@ -4,9 +4,11 @@ Trabajos para la materia de Machine Learning de la UPSO
 ## Descripción
 Este laboratorio, en el contexto de la asignatura de Machine Learning de la Universidad Provincial del Sudoeste (UPSO), se centra en el análisis de un conjunto de datos de canciones de Spotify. El objetivo es desarrollar un clasificador que, utilizando algoritmos de aprendizaje automático, pueda predecir si a un usuario le gustará o no una canción específica.
 
-## Repositorio
+## Repositorio y Colab
 
 Link al repositorio: [Laboratorio_2 Juan Manuel Roccia](https://github.com/JuanRoccia/MachineLearningUPSO/blob/main/Laboratorio%202/Laboratorio_Clasificador_Canciones_Spotify.ipynb)
+
+Link al Colab: [Google Colab](https://colab.research.google.com/github/JuanRoccia/MachineLearningUPSO/blob/main/Laboratorio%202/Laboratorio_Clasificador_Canciones_Spotify.ipynb)
 
 ## Conjunto de Datos
 El conjunto de datos proporcionado en formato CSV contiene 16 columnas, de las cuales 13 son atributos característicos de las canciones, además de las columnas para el nombre de la canción, el artista y la etiqueta "target" que indica las preferencias del usuario.

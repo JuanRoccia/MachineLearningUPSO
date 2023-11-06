@@ -2,6 +2,8 @@
 
 Link al repositorio: [Laboratorio_2 Juan Manuel Roccia](https://github.com/JuanRoccia/MachineLearningUPSO/blob/main/Laboratorio%202/Laboratorio_Clasificador_Canciones_Spotify.ipynb)
 
+Link al Colab: [Google Colab](https://colab.research.google.com/github/JuanRoccia/MachineLearningUPSO/blob/main/Laboratorio%202/Laboratorio_Clasificador_Canciones_Spotify.ipynb)
+
 ## Introducción al Proyecto
 
 ### Contexto
